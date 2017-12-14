@@ -3,12 +3,13 @@
 body {
   padding: 0;
   margin: 0;
+  font-family: 'Varela Round', sans-serif;
 }
 
 header {
   text-align: center;
   padding: 20px;
-  font-family: 'Abril Fatface', cursive;
+/*   font-family: 'Varela Round', sans-serif; */
   font-size: 39px;
   text-decoration: underline;
 }
@@ -40,7 +41,7 @@ ul {
 .fonts ul li {
   padding: 10px 10px 10px 10px;
   font-size: 14px;
-  font-family: 'Cantata One', serif;
+/*   font-family: 'Varela Round', sans-serif; */
 }
 pre {
   padding: 0;
@@ -75,14 +76,14 @@ pre {
   text-align: center;
   color: #000;
   background: #03A9F4;
-  font-family: 'Cantata One', serif;
+/*   font-family: 'Varela Round', sans-serif; */
 }
 .colors ul {
   padding: 5px 0 0 0;
   margin: 0;
 }
 .colors ul li {
-  font-family: 'Cantata One', serif;
+/*   font-family: 'Cantata One', serif; */
   text-align: center;
   padding: 30px;
   color: #fff;
